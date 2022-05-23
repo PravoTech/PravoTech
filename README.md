@@ -42,7 +42,7 @@
 **Присоединяйся к команде Pravo.Tech!**
 Узнай больше о нас и посмотри вакансии на [сайте вакансий PravoTech](https://job.pravo.tech/)
 
-Technology stack: .Net / C# / ASP.NET WebAPI / Entity Framework (включая .NET Core) / PHP / Laravel / JS / Angular / ReactJS / ReactJS Flow
+Technology stack: .Net / C# / ASP.NET WebAPI / Entity Framework (включая .NET Core) / PHP / Laravel / JS / Angular / ReactJS / ReactJS Flow NUnit / Gatling / Jest / MS SQL Server / PostgreSQL / MySQL /IIS + Application Request Routing + Web Farm Framework / Kestrel+Docker / Nginx
 
 
 
