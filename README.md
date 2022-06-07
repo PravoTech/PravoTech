@@ -46,7 +46,7 @@
 Это позволяет быстро решать такие важные вопросы, как увеличение зарплаты, обучение или перевод на другие проекты и задачи. Инициировать такую оценку сотрудник может в любой момент, как только почувствует, что «перерос» текущий уровень задач или наоборот, что ему для развития не хватает каких-то навыков.
 
 **Присоединяйся к команде Pravo.Tech!**
-Узнай больше о нас и посмотри вакансии на [сайте вакансий PravoTech](https://job.pravo.tech/)
+Узнай больше о нас и посмотри вакансии на [job.pravo.tech](https://job.pravo.tech/)
 
 Technology stack: .Net / C# / ASP.NET WebAPI / Entity Framework (включая .NET Core) / PHP / Laravel / JS / Angular / ReactJS / ReactJS Flow NUnit / Gatling / Jest / MS SQL Server / PostgreSQL / MySQL /IIS + Application Request Routing + Web Farm Framework / Kestrel+Docker / Nginx
 
